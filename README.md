@@ -1,6 +1,6 @@
 # MaintenanceServicesPlatform-AMS-IPCA
 
-##O objetivo do projeto foi modelar uma plataforma de serviços de manutenção residencial, aplicando metodologias e práticas de engenharia de software, nomeadamente:
+## O objetivo do projeto foi modelar uma plataforma de serviços de manutenção residencial, aplicando metodologias e práticas de engenharia de software, nomeadamente:
 
 Scrum – definição de sprints, backlog e planeamento;
 
