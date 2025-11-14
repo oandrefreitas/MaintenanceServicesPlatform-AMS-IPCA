@@ -1,15 +1,19 @@
 # MaintenanceServicesPlatform-AMS-IPCA
 
-## O objetivo do projeto foi modelar uma plataforma de serviços de manutenção residencial, aplicando metodologias e práticas de engenharia de software, nomeadamente:
+Projeto académico desenvolvido na unidade curricular Análise e Modelação de Software (AMS), focado na modelação de uma plataforma de serviços de manutenção residencial. Inclui levantamento de requisitos, documentação técnica e aplicação da metodologia Scrum.
 
-Scrum – definição de sprints, backlog e planeamento;
+## Funcionalidades principais
 
-Modelação UML – diagramas de casos de uso, classes, estados, sequências, BPMN, etc.;
+* Levantamento e especificação de requisitos funcionais e não funcionais.
 
-Levantamento e especificação de requisitos funcionais e não funcionais;
+* Elaboração de user stories, acceptance criteria e product backlog.
 
-Mockups e prototipagem da interface;
+* Planeamento de sprints utilizando a metodologia Scrum.
 
-Narrativas, user stories e regras de negócio;
+* Criação de diagramas UML: casos de uso, classes, estados e sequência.
 
-Arquitetura técnica e definição de tecnologias.
+* Modelação de processos com BPMN.
+
+* Desenvolvimento de mockups da interface do utilizador.
+
+* Compilação da documentação final em PDF
